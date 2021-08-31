@@ -24,7 +24,7 @@
         <div style="margin: 2rem; display:flex; flex-direction:column; align-items:center;">
             <h5>Modifier Porfolios</h5>
             <p>CRUD Portfolio</p>
-            <a class="text-center" href="/modif/portfolio" style="width:200px;  background-color: rgb(102, 168, 212); padding: 20px; color:white;" >Direction Portfolio</a>
+            <a class="text-center" href="/edit/portfolio" style="width:200px;  background-color: rgb(102, 168, 212); padding: 20px; color:white;" >Direction Portfolio</a>
         
         </div>
 
