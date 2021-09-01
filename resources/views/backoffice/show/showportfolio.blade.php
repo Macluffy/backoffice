@@ -12,7 +12,7 @@
         @method('DELETE')
         <button type="submit" style="width:200px;  background-color: rgb(218, 10, 10); padding: 5px; color:white; border:none" >DELETE</button>
     </form>
-  <a href="{{route('update1', $datap->id)}} " class="btn btn-info" >EDIT</a>
+  <a href="{{route('goedit', $datap->id)}} " style="width:200px;"  class=" btn btn-info" >EDIT</a>
 </div>
 
 @endsection
