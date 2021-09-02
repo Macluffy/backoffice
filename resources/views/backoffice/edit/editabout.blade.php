@@ -32,6 +32,12 @@
         <a href="/back.html" class="text-center" style="width:200px;  background-color: rgb(126, 123, 123); padding: 20px; color:white; margin:15px">Retours vers Backoffice Home</a>
 
 
+
+
+
+
+
+        
         </div>
         
         
